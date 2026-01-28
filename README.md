@@ -23,7 +23,7 @@ Ce projet a pour objectif d’analyser des données transactionnelles clients af
 
 ## Installation et utilisation
 
-1**Cloner le projet**  
+**Cloner le projet**  
 Commencer par cloner le projet depuis GitHub et se déplacer dans le dossier du projet.
 
 **Créer et activer un environnement virtuel et installer les dépendances**  
