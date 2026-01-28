@@ -23,15 +23,15 @@ Ce projet a pour objectif d’analyser des données transactionnelles clients af
 
 ## Installation et utilisation
 
-1️ **Cloner le projet**  
+1**Cloner le projet**  
 Commencer par cloner le projet depuis GitHub et se déplacer dans le dossier du projet.
 
-2️ **Créer et activer un environnement virtuel et installer les dépendances**  
+**Créer et activer un environnement virtuel et installer les dépendances**  
 Créer un environnement virtuel pour isoler les bibliothèques nécessaires. Une fois activé, installer toutes les dépendances requises pour exécuter le projet.
 
-3️ **Configurer les variables de connexion à la base de données**  
+**Configurer les variables de connexion à la base de données**  
 Renseigner les informations de connexion à la base de données dans un fichier `.env` à la racine du projet.
 
-4️ **Lancer le notebook Jupyter**  
+**Lancer le notebook Jupyter**  
 Lancer Jupyter Notebook, sélectionner le kernel correspondant à l’environnement virtuel, et exécuter les cellules pour analyser les données et vérifier la connexion à la base de données.
 
